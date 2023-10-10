@@ -1,3 +1,10 @@
+# Description
+
+Just a simple Task/Todo application in react, thats the outcome
+
+![image](https://github.com/Tim275/Reactapps/assets/117520669/6be20771-ca1e-4869-901f-85c27b8773da)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
