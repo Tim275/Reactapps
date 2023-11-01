@@ -1,8 +1,14 @@
-# Description
+# App 1
 
 Just a simple Task/Todo application in react, thats the outcome
 
 ![image](https://github.com/Tim275/Reactapps/assets/117520669/6be20771-ca1e-4869-901f-85c27b8773da)
+
+# App 2
+
+Word COUNTER & Chuck norris Joke API
+![image](https://github.com/Tim275/Reactapps/assets/117520669/5185a5d5-0a70-4d86-aeb5-293988c94bad)
+![image](https://github.com/Tim275/Reactapps/assets/117520669/8586a3b0-549e-415a-ac64-7400d0d18a87)
 
 
 # Getting Started with Create React App
